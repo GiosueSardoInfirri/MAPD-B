@@ -16,7 +16,7 @@ if __name__ == '__main__':
     MAX = 100_000_000
 
     # define the number of processes
-    N_PROCESSES = 4
+    N_PROCESSES = 100
 
     # start a timer
     start = time.time()
